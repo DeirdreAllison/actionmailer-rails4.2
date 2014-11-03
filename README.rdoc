@@ -1,28 +1,9 @@
-== README
+== Configuring ActionMailer in Rails 4.2
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app demonstrates ActionMailer in Rails 4.2 which includes Delayed Job.
 
-Things you may want to cover:
+I am working on adding test and Sidekiq for background jobs.
 
-* Ruby version
+License:
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+MIT: [http://deirdre.mit-license.org/](http://deirdre.mit-license.org/)
